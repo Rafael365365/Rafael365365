@@ -27,4 +27,4 @@ Estudante de Sistemas de Informação | Desenvolvimento de Software
 ## Contato
 
 - 📧 rafael.couto1603@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-máximo-024600306/)

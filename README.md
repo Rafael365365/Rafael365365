@@ -8,10 +8,11 @@ Estudante de Sistemas de Informação | Desenvolvimento de Software
 
 ## Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação**
-- 💻 Interessado em desenvolvimento de software e estruturas de dados
-- ☕ Atualmente aprofundando conhecimentos em **Java**
-- 🚀 Objetivo: construir experiência prática e evoluir como desenvolvedor
+🎓 Estudante de Sistemas de Informação
+💻 Foco em desenvolvimento de software e backend
+☕ Estudando Java e Programação Orientada a Objetos
+🗄️ Estudando SQL e bancos de dados
+
 
 ## Tech Stack
 
@@ -22,7 +23,7 @@ Estudante de Sistemas de Informação | Desenvolvimento de Software
 ## Projetos
 
 - **[Sistema de Estoque](https://github.com/Rafael365365/Sistema-de-Estoque)** — sistema de gerenciamento de estoque em C, com foco em structs, arrays, funções e lógica de programação.
-- **Estruturas de Dados II** — exercícios e projetos de listas estática, dinâmica, encadeada, circular e duplamente encadeada, ponteiros e alocação dinâmica.
+
 
 ## Contato
 

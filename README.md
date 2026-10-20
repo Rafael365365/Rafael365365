@@ -10,8 +10,8 @@ Estudante de Sistemas de Informação | Desenvolvimento de Software
 
 🎓 Estudante de Sistemas de Informação
 💻 Foco em desenvolvimento de software e backend
-☕ Estudando Java e Programação Orientada a Objetos
-🗄️ Estudando SQL e bancos de dados
+☕Java e Programação Orientada a Objetos
+🗄️SQL e bancos de dados
 
 
 ## Tech Stack

@@ -22,7 +22,7 @@ Estudante de Sistemas de Informação | Desenvolvimento de Software
 
 ## Projetos
 
-- **[Sistema de Estoque](https://github.com/Rafael365365/Sistema-de-Estoque)** — sistema de gerenciamento de estoque em C, com foco em structs, arrays, funções e lógica de programação.
+- **[Sistema de Estoque](https://github.com/Rafael365365/Sistema-Estoque)** — sistema de gerenciamento de estoque em C, com foco em structs, arrays, funções e lógica de programação.
 
 
 ## Contato

@@ -17,7 +17,7 @@ Estudante de Sistemas de Informação | Desenvolvimento de Software
 ## Tech Stack
 
 **Linguagens:** C, Java
-**Banco de dados:** SQL, MySQL *(em aprendizado)*
+**Banco de dados:** SQL, MySQL 
 **Ferramentas:** Git, GitHub, VS Code
 
 ## Projetos

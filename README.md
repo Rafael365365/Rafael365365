@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rafael Maximo Couto
+# Rafael Máximo Couto
 
 Estudante de Sistemas de Informação | Desenvolvimento de Software
 

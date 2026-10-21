@@ -8,13 +8,10 @@ Estudante de Sistemas de Informação | Desenvolvimento de Software
 
 ## Sobre mim
 
-🎓 Estudante de Sistemas de Informação
-
-💻 Foco em desenvolvimento de software e backend
-
-☕ Java e Programação Orientada a Objetos
-
-🗄️ SQL e bancos de dados
+- 🎓 Estudante de Sistemas de Informação
+- 💻 Foco em desenvolvimento de software e backend
+- ☕ Java e Programação Orientada a Objetos
+- 🗄️ SQL e bancos de dados
 
 
 ## Tech Stack
